@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surendram.Dev{ANCIENTINSANE}</h1>
-<h3 align="center">"Elevating visions through design and code." Welcome to my portfolio, where creativity meets functionality. 🚀 ✨</h3>
+<h3 align="center">"Elevating visions through design and code." Welcome to my Profile, where creativity meets functionality. 🚀 ✨</h3>
 
 - 🌱 I’m currently learning **GoLang**
 
