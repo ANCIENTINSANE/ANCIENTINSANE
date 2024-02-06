@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [surendram.dev@gmail.com](surendram.dev@gmail.com)
 
-- ⚡ Fun fact **I Love Eating 🍕❤️‍🔥✨**
+- ⚡ Fun fact **I Love Eating 🍕 & Play Games 🎮🕹️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
