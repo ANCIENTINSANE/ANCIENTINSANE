@@ -2,7 +2,7 @@
 <h4 align="center">“A creative mess is better than tidy idleness." <br> About me - A Harmonious blend of creativity and utility  🚀 ✨</h4>
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-surendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/surendram-dev/) [![GitHub followers](https://img.shields.io/github/followers/ANCIENTINSANE?label=Follow&style=social)](https://github.com/ANCIENTINSANE/?tab=follow)
+[![Linkedin Badge](https://img.shields.io/badge/-surendram.dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/surendram-dev/) [![GitHub followers](https://img.shields.io/github/followers/ANCIENTINSANE?label=Follow&style=social)](https://github.com/ANCIENTINSANE/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-surendram.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:surendram.dev@gmail.com)](mailto:surendram.dev@gmail.com)
 
 </div>
