@@ -1,24 +1,23 @@
-<h1 align="center">Hi 👋, I'm Surendra {ANCIENTINSANE}</h1>
-<h3 align="center">"Elevating visions through design and code." Welcome to my Profile, where creativity meets functionality. 🚀 ✨</h3>
+<h1 align="center">Hi 👋, I'm Surendra</h1>
+<h4 align="center">“A creative mess is better than tidy idleness." <br> About me - A Harmonious blend of creativity and utility  🚀 ✨</h4>
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-surendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/surendram-dev/) [![GitHub followers](https://img.shields.io/github/followers/ANCIENTINSANE?label=Follow&style=social)](https://github.com/ANCIENTINSANE/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-surendram.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:surendram.dev@gmail.com)](mailto:surendram.dev@gmail.com)
+
+</div>
 
 - 🌱 I’m currently learning **GoLang**
 
-- 👨‍💻 All of my projects are available at [https://surendram.dev/](https://surendram.dev/)
+- 👨‍💻 All of my projects are available at [surendram.dev](https://surendram.dev/)
 
-- 💬 Ask me about **React,Next.Js,Node.Js,Flutter**
-
-- 📫 How to reach me **surendram.dev@gmail.com**
-
-- 📄 Know about my experiences [surendram.dev@gmail.com](surendram.dev@gmail.com)
+- 💬 Ask me about **SvelteKit, React.js, Node.Js, Express, MongoDB, Flutter**.
 
 - ⚡ Fun fact **I Love Eating 🍕 & Play Games 🎮🕹️**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ancientinsane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ancientinsane" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/surendram-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surendram-dev" height="30" width="40" /></a>
-<a href="https://instagram.com/surendram.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surendram.dev" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+ ----
+
+
+[![Surendra's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ANCIENTINSANE&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/ANCIENTINSANE/github-readme-stats#gh-dark-mode-only)&nbsp; &nbsp; &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats&theme=dark#gh-dark-mode-only)
+[![Surendra's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ANCIENTINSANE&rank_icon=github&theme=grayWhite#gh-light-mode-only)](https://github.com/ANCIENTINSANE/github-readme-stats#gh-light-mode-only)&nbsp; &nbsp; &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=grayWhite#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats&theme=grayWhite#gh-light-mode-only)
