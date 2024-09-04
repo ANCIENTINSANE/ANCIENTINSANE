@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **GoLang**
 
-- 👨‍💻 All of my projects are available at [surendram.dev](https://surendram.dev/)
+- 👨‍💻 All of my projects are available at [surendram.dev](https://surendra.codes/)
 
 - 💬 Ask me about **SvelteKit, React.js, Node.Js, Express, MongoDB, Flutter**.
 
