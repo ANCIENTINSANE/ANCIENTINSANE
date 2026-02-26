@@ -1,110 +1,100 @@
-<h1 align="center">Hi 👋, I'm Surendra</h1>
-<h4 align="center">“A creative mess is better than tidy idleness." <br> About me - A Harmonious blend of creativity and utility  🚀 ✨</h4>
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-surendram.dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/surendram-dev/) [![GitHub followers](https://img.shields.io/github/followers/ANCIENTINSANE?label=Follow&style=social)](https://github.com/ANCIENTINSANE/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-surendram.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:surendram.dev@gmail.com)](mailto:surendram.dev@gmail.com)
+# Surendra  
+
+### Full-Stack Engineer • SaaS Architect • Founder  
+
+---
+
+I design and engineer scalable software systems with a product-first mindset.  
+Focused on clean architecture, long-term maintainability, and solving meaningful problems through technology.
+
+Currently diving deeper into **Go** to build high-performance, distributed backend systems.
 
 </div>
 
-- 🌱 I’m currently learning **GoLang**
+---
 
-- 👨‍💻 All of my projects are available at [surendra.codes](https://surendra.codes/)
+## 🚀 Founder’s Perspective
 
-- 💬 Ask me about **SvelteKit, React.js, Node.Js, Express, MongoDB, Flutter**.
+As the founder of **[Fairlx](https://fairlx.com)** — an AI-powered, usage-based SaaS project management platform — I approach engineering beyond just code.
 
-- ⚡ Fun fact **I Love Eating 🍕 & Play Games 🎮🕹️**
+I think in terms of:
 
+- Systems over shortcuts  
+- Architecture over patches  
+- Products over features  
+- Long-term scalability over temporary wins  
 
+From backend reliability to frontend precision, every layer is built intentionally.
 
+---
 
+## 🏗 What I Work On
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+- Architecting scalable SaaS platforms  
+- Designing clean API systems & backend workflows  
+- Building responsive, accessible frontend experiences  
+- Engineering maintainable codebases for long-term growth  
 
+---
+
+## 💻 Technical Stack
+
+### Core Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
+
+### Frameworks & Runtime  
+![SvelteKit](https://img.shields.io/badge/SvelteKit-000000?style=flat-square&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white)
+
+### Databases & BaaS  
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-000000?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-000000?style=flat-square&logo=appwrite&logoColor=white)
+
+### Tools & Environment  
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ANCIENTINSANE/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ANCIENTINSANE&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-</a>
- 
-<a href="https://github.com/ANCIENTINSANE">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ANCIENTINSANE&theme=blueberry" width="380"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ANCIENTINSANE&show_icons=true&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANCIENTINSANE&show_icons=true&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117&layout=compact" width="48%" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+---
 
-<p align="center">
-    <a href="https://github.com/ANCIENTINSANE"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANCIENTINSANE&theme=tokyonight&hide_border=true"  width="520" alt="ANCIENTINSANE"/></a>
-<a href="https://github.com/ANCIENTINSANE"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANCIENTINSANE&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="ANCIENTINSANE"/></a>
-</p>
+## 🤝 Let’s Connect
 
-## Connect with me 
+If you're building something ambitious, scaling a SaaS product, or just want to exchange ideas — I’m always open to meaningful conversations.
 
-<a href="https://www.instagram.com/surendra.codes/" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=f02b9a&style=for-the-badge&logo=instagram&logoColor=white" t=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/surendram-dev" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+[![Website](https://img.shields.io/badge/Website-surendra.codes-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://surendra.codes)
+[![Fairlx](https://img.shields.io/badge/Product-Fairlx-000000?style=flat-square&logo=vercel&logoColor=white)](https://fairlx.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/surendram-dev)
+[![Email](https://img.shields.io/badge/Email-Contact-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:surendram.dev@gmail.com)
 
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<div align="center">
 
-<p align="center">
+*Engineering systems. Building products. Thinking long-term.*
 
-- 📋 Languages: 
-    
-    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-    ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-    ![typescropt](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-    ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-    ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-   
-    
-- 🎨 Frameworks
-
-   ![Reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-   ![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-   ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-  [![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?&style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev/)
-  [![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-   ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-   ![jQuary](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-   ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-   ![jwt](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-   ![Amp](https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0)
-   ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-   ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-   ![Material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-   ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-   ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-    
-- 💾 Databases:
-
-    
-    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
-    ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-    ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-    
-    
-- 🎛️ Application and Tools:
-
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-    ![Xmapp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
-    ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  [![macOS](https://img.shields.io/badge/macos-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
-    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-    ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-    
-</p>
-
-<br> 
+</div>
