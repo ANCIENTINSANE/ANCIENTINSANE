@@ -75,10 +75,14 @@ From backend reliability to frontend precision, every layer is built intentional
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANCIENTINSANE&show_icons=true&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANCIENTINSANE&show_icons=true&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117&layout=compact" width="48%" />
-</p>
+
+  <a href="https://git.io/streak-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ANCIENTINSANE&theme=dark&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ANCIENTINSANE&theme=default&hide_border=true" />
+      <img src="https://streak-stats.demolab.com?user=ANCIENTINSANE&hide_border=true" alt="GitHub Streak" />
+    </picture>
+  </a>
 
 ---
 
