@@ -1,6 +1,6 @@
 <div align="center">
 
-# Surendra  
+# Surendra Mattaparthi
 
 ### Full-Stack Engineer • SaaS Architect • Founder  
 
